@@ -16,7 +16,7 @@ I am a second year PhD student in Robotics at Colorado School of Mines, advised 
 - **[Mar. 2026]** Our paper about dynamic navigation is accepted to MEIS(CVPR workshop) 2026.
 - **[Mar. 2026]** Our paper about E2E navigation is accepted to ISARC 2026.
 - **[May. 2025]** We will host the EV education workshop in Alabama!
-- **[Mar. 2025]** Our paper about few-shot learning is accepted to i3CE 2025.
+- **[Mar. 2025]** Our paper about teacher-student learning is accepted to i3CE 2025.
 
 {% include_relative _includes/publications.md %}
 
