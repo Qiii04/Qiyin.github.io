@@ -1,22 +1,40 @@
 main:
-
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  - title: Mitigating Multi-Module Errors for Reliable Navigation in Dynamic Environments via Online Trajectory Refinement
+    authors: <strong>Qi Yin</strong>, Yangming Shi
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong> Workshops, 2026.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Accept(Oral)
+    
+  - title: ConRobo-Nav: A Quadruped Robot Navigation System for Construction Sites via End-to-End Reinforcement Learning
+    authors:  <strong>Qi Yin</strong>, Meida Chen, Yangming Shi
+    conference_short: ISARC
+    conference: 43nd International Symposium on Automation and Robotics in Construction <strong>(ISARC)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    #code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: A Navigation System to Improve Quadruped Robot’s Autonomous Path Planning and Locomotion on Outdoor Construction Site
+    authors: <strong>Qi Yin</strong>, Ziming Liu, Meida Chen, Yang Ye, Jing Du, Yangming Shi
+    #conference_short: MICCAI
+    conference: under review, 2025.
+    pdf: https://download.ssrn.com/autcon/b1d5c3bc-11c8-4677-b20a-36dfc055e903-meca.pdf?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCFacs5N80zf0%2BQTkvH1JVPfa0BWjfDU%2Bc7FTzuEbpcvQIhAPFhyI4hBFohX4Jz0hHNlNjdrxjO31K89cH3oPRbrewqKsYFCIn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBBoMMzA4NDc1MzAxMjU3IgxS%2B%2BtiyTLNYXXXj1wqmgVtLczSL%2B00v4eTrvYwnak5Idmoo6sU8o3ezUih0pfkMVEodcFq57xtvHhBkBW7T6HovJMub2cI8j%2FevuiWHQTo5g8S1hnPmKjVjKWb0FnEZHQoNm%2Fo%2FHhhC8TM9PlulU%2BV%2BfYhfnIDGkVvwMcrmOeGlX8P13CxXd%2F1KD%2BNWLZuy64V5Hs0HiIKkP67J74AzvcctQ%2F57xQR%2B9OmeuRRWMBkRPc7cm9BTM2j5vuc%2BxTu7kMk%2FsSP9svnW2CVMqCZSG40g%2B4mPdfsZjefekvAD5ua%2FdR4W4gxK4vaNW14%2BoBdaup12gHmyCYv9WX7cdFtxY4%2Bca8I4JQUXJ4FQCk2uZWckfxIcbeBkUnIRNYUnQHpfpOUetUPL262P4QJgA4IL1jnSKeTezjEts3uVuOGamRwE9WFZreE17MUy01ZQCbsXEqqb8PvTw%2B3l0%2BUMOMLNa%2BzuLlT%2BT1dcVZ8EmMV2yzON5HF8uaJkh0RodyOJiVI%2BI2e2MHxAtjML%2BRnrvOyt1JhpIS5DECt0kFzNjqdeandmAZFuEo1Cc65cozUQF8TeH5WWeLKmmmLFcu4lB1KaDqmQwQ42FSriDOYTc9Ne08JO2x%2BBMYNRLS20hHK79W56ke8Fl5kzRUQTTvZlGwbxU2Ncd0Qo%2FI4W7uYvLxKXWHroofQQS%2FXgimvxiAU%2FcUpPvTYmmUkCfft%2BY46fJpY6kCahdU0TcDh%2F%2FcMztyGI3XuKtAW0Z9Qezdl6g5SLOvM33a3ShAUHDJrkF3XFPNHyhbeemv0nKbCWdVkBJrWPwB9VyUNKmtEhHHm4GnxkjEzB7THpGFAv%2Bw7C5gj0bZgug%2FjeEUMHbNHGgmWYTh7P5As6oQRZGYkY1Rxtie7RUZQMNFWI3z3tiZi3u8wp5uHzgY6sAFL%2BtXE8z6wTWJ6WV6yiIdAxDDy%2BrsDQiy9jFUMRKJZsm3P36i6tHgWGAOMsgmHtsG9l2J9raGe488xoBmTi9cOBjiPpgAfK5lLlPnyCIXvULKL%2FUd7bAk43iIUTZcPjooX50XBAN%2FOYH4dfnzjgurgXxuZx6wXckWdQW2vqSXnE28Enj8eSysgl8JBzVS%2FV1fiSyAUgA2jUJXnGQ1ClPG1SbRRv08el926J55DZxYbdA%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260323T234317Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAUPUUPRWESXEXD3UJ%2F20260323%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=695235df42c9c7029fa83a1791903cef07c702d17148cf0632dab394b0c703ca&abstractId=5907605
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    #notes: Early Accept
+
+  - title: "A Teacher-Student Learning Approach to Improve Quadruped Robot’s Autonomous Locomotion and Obstacle Avoidance on Construction Site"
+    authors: <strong>Qi Yin</strong>, Yang Ye, Meida Chen, Yangming Shi
+    conference_short: i3CE
+    conference: ASCE International Conference on Computing in Civil Engineering <strong>(i3CE)</strong>, 2025.
+    pdf: https://ascelibrary.com/doi/abs/10.1061/9780784486443.063
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
