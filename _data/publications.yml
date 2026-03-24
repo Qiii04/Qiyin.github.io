@@ -6,7 +6,7 @@ main:
     pdf: #https://arxiv.org/pdf/2306.00988.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: #https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/meis_fast_0.gif
     notes: Accept (Oral)
     
   - title: "ConRobo-Nav: A Quadruped Robot Navigation System for Construction Sites via End-to-End Reinforcement Learning"
