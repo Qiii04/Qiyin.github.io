@@ -8,8 +8,8 @@ main:
     image: ./assets/img/teaser_example_2.png
     notes: Accept(Oral)
     
-  - title: ConRobo-Nav: A Quadruped Robot Navigation System for Construction Sites via End-to-End Reinforcement Learning
-    authors:  <strong>Qi Yin</strong>, Meida Chen, Yangming Shi
+  - title: "ConRobo-Nav: A Quadruped Robot Navigation System for Construction Sites via End-to-End Reinforcement Learning"
+    authors: <strong>Qi Yin</strong>, Meida Chen, Yangming Shi
     conference_short: ISARC
     conference: 43nd International Symposium on Automation and Robotics in Construction <strong>(ISARC)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
@@ -20,7 +20,6 @@ main:
 
   - title: A Navigation System to Improve Quadruped Robot’s Autonomous Path Planning and Locomotion on Outdoor Construction Site
     authors: <strong>Qi Yin</strong>, Ziming Liu, Meida Chen, Yang Ye, Jing Du, Yangming Shi
-    #conference_short: MICCAI
     conference: under review, 2025.
     pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5907605
     #code: https://github.com/MrGiovanni/ContinualLearning
