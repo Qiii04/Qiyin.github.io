@@ -24,7 +24,7 @@ main:
     conference: under review, 2025.
     pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5907605
     #code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: "/assets/assets/bibtex/isarc2026.txt" #https://bib.yliu.me/MICCAI23.txt
+    bibtex: ./assets/assets/bibtex/aei2025.txt #https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
     #notes: Early Accept
 
