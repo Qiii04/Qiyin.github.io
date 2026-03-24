@@ -1,0 +1,5 @@
+@article{yin5907605navigation,
+  title={A Navigation System to Improve Quadruped Robot’s Autonomous Path Planning and Locomotion on Outdoor Construction Sites},
+  author={Yin, Qi and Liu, Ziming and Chen, Meida and Ye, Yang and Du, Jing and Shi, Yangming},
+  journal={Available at SSRN 5907605}
+}
