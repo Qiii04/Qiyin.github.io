@@ -1,17 +1,18 @@
 main:
   - title: Mitigating Multi-Module Errors for Reliable Navigation in Dynamic Environments via Online Trajectory Refinement
     authors: <strong>Qi Yin</strong>, Yangming Shi
+    conference_short: MEIS
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong> Workshops, 2026.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
-    notes: Accept(Oral)
+    notes: Accept (Oral)
     
   - title: "ConRobo-Nav: A Quadruped Robot Navigation System for Construction Sites via End-to-End Reinforcement Learning"
     authors: <strong>Qi Yin</strong>, Meida Chen, Yangming Shi
     conference_short: ISARC
-    conference: 43nd International Symposium on Automation and Robotics in Construction <strong>(ISARC)</strong>, 2026.
+    conference: 43rd International Symposium on Automation and Robotics in Construction <strong>(ISARC)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
