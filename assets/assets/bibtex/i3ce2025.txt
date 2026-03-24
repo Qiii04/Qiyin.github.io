@@ -1,0 +1,11 @@
+@inbook{doi:10.1061/9780784486443.063,
+author = {Qi Yin  and Yang Ye  and Meida Chen  and Yangming Shi },
+title = {A Teacher–Student Learning Approach to Improve Quadruped Robots’ Autonomous Locomotion and Obstacle Avoidance on Construction Sites},
+booktitle = {Computing in Civil Engineering 2025},
+chapter = {},
+pages = {572-581},
+doi = {10.1061/9780784486443.063},
+URL = {https://ascelibrary.com/doi/abs/10.1061/9780784486443.063},
+eprint = {https://ascelibrary.com/doi/pdf/10.1061/9780784486443.063},
+    abstract = { With the advent of the Industry 4.0 era, robotic technology has increasingly been integrated into the construction industry. The application of robots offers new solutions for addressing labor shortages, improving safety, and advancing productivity in the construction industry. However, most robots with self-decision-making capabilities are designed for general-purpose tasks and struggle to adapt to the complexities of construction environments. This study proposes a framework for enabling quadruped robots to achieve self-decision-making locomotion and avoid obstacles on construction sites. This framework adopts a teacher–student learning approach, which consists of two components: teacher learning and student learning. In the teacher-learning phase, reinforcement learning was employed to train the quadruped robot for self-decision-making locomotion and obstacle avoidance. In the student learning phase, we introduced construction site terrains and simulated realistic scenarios by incorporating noise into the simulated sensor data. Using the teacher policy as a supervisor, imitation learning was applied to train a control system that enables the quadruped robot to perform self-decision-making locomotion and obstacle avoidance on construction sites. The proposed approach and related experiments demonstrated the potential to enhance the autonomy and adaptability of robots in complex and unstructured construction sites. }
+}
