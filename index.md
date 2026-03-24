@@ -19,5 +19,5 @@ I am a second year PhD student in Robotics at Colorado School of Mines, advised 
 - **[Mar. 2025]** Our paper about teacher-student learning is accepted to i3CE 2025.
 
 {% include_relative _includes/publications.md %}
-
+{% include_relative _includes/projects.md %}
 {% include_relative _includes/services.md %}
