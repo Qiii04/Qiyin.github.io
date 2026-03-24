@@ -35,6 +35,6 @@ main:
     pdf: https://ascelibrary.com/doi/abs/10.1061/9780784486443.063
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: ./assets/assets/bibtex/i3ce2025.txt
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
